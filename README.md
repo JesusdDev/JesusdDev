@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/uG964Hl.png" alt="banner-dev-profile" width="100%" />
+  <img src="image.jpg" alt="banner-dev-profile" width="100%" />
 </div>
 
 <br>
