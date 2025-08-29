@@ -20,7 +20,7 @@
 
 # 🛠️ Experiencia
 
-## Como ingeniero de sistemas, me especializo en el diseño y la implementación de soluciones con un enfoque en la eficiencia y la escalabilidad. He trabajo en los sectores de:
+Como ingeniero de sistemas, me especializo en el diseño y la implementación de soluciones con un enfoque en la eficiencia y la escalabilidad. He trabajo en los sectores de:
 
 * Farmacéutica
 * Retail
