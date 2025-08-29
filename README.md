@@ -49,7 +49,7 @@ Aquí puedes encontrar algunos de mis proyectos más recientes, la mayoria desar
 
 # ✉️ Contacto
 
-## Estoy disponible para colaboraciones y nuevos proyectos. ¡No dudes en contactarme!
+Estoy disponible para colaboraciones y nuevos proyectos. ¡No dudes en contactarme!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jesusd191120/">
