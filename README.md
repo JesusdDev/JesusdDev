@@ -1,20 +1,18 @@
 # 👋 Hola, mi nombre es Jesus David Peña
 
-### Fullstack | Python | JavaScript | Sql | Backend
-
-<div align="center">
-  <img src="assets/logo.png" alt="banner-dev-profile" width="100%" heihgt="70%" />
-</div>
+[![Python](https://img.shields.io/badge/Python-2362BA)]
+[![Sql](https://img.shields.io/badge/Sql-27C8F5)]
+[![DatsScients](https://img.shields.io/badge/DataScients-7B23BA)]
 
 <div>
 
 # 🫱🏼‍🫲🏼 Estoy aquí para ayudarte, si necesitas:
 
 * Desarrollo de aplicaciones web backend con Python y frameworks como FastAPI, Django y Flask.
-* Automatización de procesos y scripting para optimizar flujos de trabajo.
+* Automatización de procesos para mejorar flujos de trabajo.
 * Diseño y gestión de bases de datos relacionales y no relacionales.
 * Integración de APIs y servicios de terceros.
-* Análisis de datos para la toma de decisiones.
+* Análisis de datos para la toma de decisiones que generen impacto.
 
 </div>
 
